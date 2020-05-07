@@ -4,6 +4,8 @@ This paper tries to study whether Progressive Resizing works and whether it help
 
 This basically means that suppose the size of our images is 256 x 256 then we first resize it to 128 x 128 and train on it and once this training is finished, we can again resize our data to 256 x 256 and train here. As a change in size means that for a deep neural network this is completely new set of data we can train for twice as long without overfitting and also as this model was already good for detecting images at 128 x 128 by Transfer Learning idea it will also be fairly good at size 256 x 256 and after training our accuracy will improve. This also ensures that our model generalize better.
 
+This paper is submitted to  ICSIDEMPC-2020 - http://icsidempc.jnec.org/ .
+
 
 # Comments
 
