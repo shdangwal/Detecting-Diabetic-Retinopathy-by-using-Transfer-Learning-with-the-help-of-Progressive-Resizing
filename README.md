@@ -24,6 +24,10 @@ pip install fastai
 
 # Code
 
-All the code used in this paper has been written in a Jupyter Notebook and can be opened using any notebook environment. Also the final exported models are present in the models directory. Training and inference instructions are present in the notebook. The data used for training these models can be found at:
+All the code used in this paper has been written in a Jupyter Notebook and can be opened using any notebook environment. Also the final exported models are present in the models directory. Training and inference instructions are present in the notebook:
+
+`https://github.com/shdangwal/Detecting-Diabetic-Retinopathy-by-using-Transfer-Learning-with-the-help-of-Progressive-Resizing/blob/master/Progressive%20Resizing.ipynb`
+
+The data used for training these models can be found at:
 
 `https://www.kaggle.com/c/aptos2019-blindness-detection/data`
