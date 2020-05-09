@@ -32,8 +32,8 @@ All the code used in this paper has been written in a Jupyter Notebook and can b
 
 ## Cohen Kappa Score of the 3 models on Kaggle public and private data:
 
-![](Documents/cohen.png)
+![](Documentation/cohen.png)
 
 ## Training Speed of Model A and B to the same accuracy:
 
-![](Documents/epochs.png)
+![](Documentation/epochs.png)
