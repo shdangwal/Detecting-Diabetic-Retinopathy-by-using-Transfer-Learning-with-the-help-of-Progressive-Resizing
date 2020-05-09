@@ -27,3 +27,13 @@ pip install fastai
 All the code used in this paper has been written in a Jupyter Notebook and can be opened using any notebook environment. Also the final exported models are present in the models directory. Training and inference instructions are present in the notebook. The data used for training these models can be found at:
 
 `https://www.kaggle.com/c/aptos2019-blindness-detection/data`
+
+# Output 
+
+## Cohen Kappa Score of the 3 models on Kaggle public and private data:
+
+![](Documents/cohen.png)
+
+## Training Speed of Model A and B to the same accuracy:
+
+![](Documents/epochs.png)
