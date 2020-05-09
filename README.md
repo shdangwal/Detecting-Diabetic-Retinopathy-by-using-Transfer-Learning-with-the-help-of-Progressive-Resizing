@@ -16,10 +16,9 @@ The models created here are just used to show the increase in accuracy that can 
 
 The code requires python 3.5 or above. And the fastai v1 package which can be installed using the following:
 
-`
-pip install http://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x86_64.whl 
-pip install fastai
-`
+`pip install http://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x86_64.whl`
+
+`pip install fastai`
 
 
 # Code
